@@ -1,6 +1,10 @@
 1)Paleta  de  cores 
-![Capturar](https://user-images.githubusercontent.com/82417251/142737859-1a3da8ad-8616-44b5-a03f-17c6da9919d7.PNG)
-2)Fonte escolhida Fonte :jogos Origem:
-![image](https://user-images.githubusercontent.com/82417251/142738598-ab86afdd-defb-47eb-99f4-6c57a6b2f1ee.png)
+
+![Capturar](https://user-images.githubusercontent.com/82417251/142738713-f80326f5-e8f5-40d3-8aba-19cfb14212d6.PNG)
+
+2)  Fonte escolhida Fonte: jogos  Origem:
+
 https://www.dafont.com/pt/search.php?q=games
+
+![image](https://user-images.githubusercontent.com/82417251/142738782-b55c0f83-0a8c-4711-ba47-a09a54fa50fa.png)
 
